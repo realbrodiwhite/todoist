@@ -6,7 +6,7 @@ require (
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/fatih/color v1.13.0
 	github.com/gofrs/uuid v3.2.0+incompatible
-	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
+	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/rkoesters/xdg v0.0.0-20181125232953-edd15b846f9b
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.1
