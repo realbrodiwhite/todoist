@@ -7,7 +7,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
-	github.com/rkoesters/xdg v0.0.0-20181125232953-edd15b846f9b
+	github.com/rkoesters/xdg v0.0.1
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.1
 	github.com/urfave/cli/v2 v2.25.1
